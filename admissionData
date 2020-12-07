@@ -1,25 +1,25 @@
 {
    "admission1" : {
       "department" : "Critical Care",
-      "doctors" : { "aingaran" : { "name" : "aingaran selvarajah", "id" : "007", "department" : "Critical Care"} },
-      "medical journals" : { "name" : "tim timsen", "social nr" : "12345"}
+      "doctors" : { "aingaran" : { "name" : "aingaran selvarajah", "doctorID" : "007", "department" : "Critical Care"} },
+      "medical journals" : { "name" : "tim timsen", "patientID" : "12345"}
    },
    
    "admission2" : {
       "department" : "Critical Care",
-      "doctors" : { "aingaran" : { "name" : "aingaran selvarajah", "id" : "007", "department" : "Critical Care"}, "mahesh" : { "name" : "mahesh rajaselvah", "id" : "503", "department" : "Diagnostic Imaging" } },
-      "medical journals" : { "name" : "jeppe borup", "social nr" : "40404"}
+      "doctors" : { "aingaran" : { "name" : "aingaran selvarajah", "doctorID" : "007", "department" : "Critical Care"}, "mahesh" : { "name" : "mahesh rajaselvah", "doctorID" : "503", "department" : "Diagnostic Imaging" } },
+      "medical journals" : { "name" : "jeppe borup", "patientID" : "40404"}
    },
    
    "admission3" : {
       "department" : "Diagnostic Imaging",
-      "doctors" : { "mahesh" : { "name" : "mahesh rajaselvah", "id" : "503", "department" : "Diagnostic Imaging" } },
-      "medical journals" : { "name" : "joergen jensen", "social nr" : "42000"}
+      "doctors" : { "mahesh" : { "name" : "mahesh rajaselvah", "doctorID" : "503", "department" : "Diagnostic Imaging" } },
+      "medical journals" : { "name" : "joergen jensen", "patientID" : "42000"}
    },
-   
+
    "admission4" : {
       "department" : "Intensive Care Unit",
-      "doctors" : { "ramesh" : { "name" : "ramesh kjeldsen", "id" : "666", "department" : "Intensive Care Unit" } },
-      "medical journals" : { "name" : "yvonne yensen", "social nr" : "33333"}
+      "doctors" : { "ramesh" : { "name" : "ramesh kjeldsen", "doctorID" : "666", "department" : "Intensive Care Unit" } },
+      "medical journals" : { "name" : "yvonne thomsen", "patientID" : "33333"}
    }
 }
