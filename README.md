@@ -12,7 +12,7 @@ A medical journal (patient) has the following attributes:
 Name
 Social Security Number
 
-An doctor has the following attributes:
+A doctor has the following attributes:
 Name
 id
 Department
